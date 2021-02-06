@@ -65,12 +65,14 @@ td{
   
 }
 td font{
-	 position: absolute;
-	 bottom: 0em;
-	 left: 0em;
-	 display: block;
-	 width: 4.7454545455em;
-	 height: 3.0303030303em;
+	position: absolute;
+	bottom: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+	color:white;
 }
 td {
 	 box-shadow: inset 0 0.4166666667em 0 rgba(218, 46, 11, 1), inset 0 -0.4166666667em 0.1666666667em rgba(170, 36, 9, 1), 0 0 0.1666666667em rgba(194, 41, 10, 1), inset 0 0 0.3333333333em rgba(121, 26, 6, 1), inset 0 0 0.3333333333em rgba(51, 51, 51, 0.5), inset 0 0 0.1666666667em 0.8333333333em rgba(194, 41, 10, 1), inset 0 -0.3333333333em 0.25em 1em rgba(51, 51, 51, 0.7), inset 0 0 0.1666666667em 1em rgba(97, 20, 5, 1), inset 0 0 0.1666666667em 1em rgba(51, 51, 51, 0.7), inset 0 0 0.0833333333em 1.0869565217em rgba(0, 0, 0, 1), inset 0 0 0.0833333333em 1.25em rgba(247, 133, 110, 0.7), inset 0 0.5em 0 1.1764705882em rgba(244, 71, 37, 0.7), inset 0 -0.5em 0.1666666667em 1.1764705882em rgba(145, 31, 8, 0.2), inset 0 0 0 1.8181818182em rgba(194, 41, 10, 1), inset 0 4em 1.3333333333em rgba(170, 36, 9, 1), inset 0 0 1em 1.6666666667em rgba(145, 31, 8, 1), 0 0.25em 0.5em rgba(0, 0, 0, .5);
