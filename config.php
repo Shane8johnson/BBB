@@ -7,7 +7,7 @@ $pluginJson = convertAndGetSettings();
 
 <div id="global" class="settings">
 <fieldset>
-<legend>Big Buttons Config</legend>
+<legend>Big Beautiful Buttons Config</legend>
 
 <script>
 function ButtonColorChanged(id)
