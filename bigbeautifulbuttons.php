@@ -66,7 +66,7 @@ td{
 }
 td font{
 	position: absolute;
-	bottom: 50%;
+	bottom: 43.0%;
 	margin-left: auto;
 	margin-right: auto;
 	left: 0;
