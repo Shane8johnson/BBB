@@ -107,7 +107,7 @@ else if (isset($pluginJson['title']) && ($pluginJson['title'] != ''))
 else
 	echo $settings['HostName'] . " - Big Beautiful Buttons Plugin";
 ?></b></font>
-<table border=1 width='100%' height='90%' bgcolor='#000000' style='position: absolute;left: 0px;'>
+<table border=1 width='100%' height='90%' bgcolor='#ffffff' style='position: absolute;left: 0px;'>
 <tr>
 <?
 
