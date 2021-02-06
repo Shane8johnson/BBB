@@ -3,7 +3,7 @@
 <?
 require_once("config.php");
 require_once("common.php");
-require_once("bb-common.php");
+require_once("bbb-common.php");
 require_once("fppversion.php");
 
 $jquery = glob("/opt/fpp/www/js/jquery-*.min.js");
